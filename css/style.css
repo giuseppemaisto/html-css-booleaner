@@ -30,3 +30,16 @@
 .text-photo{
     color: gray;
 }
+
+.central-text{
+    margin-top: 20px;
+    width: 1000px;
+}
+.text-yellow{
+    background-color: yellow;
+    }
+
+.elenco{
+    margin-left: 20px;
+    margin-top: 30px;
+}
