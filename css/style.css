@@ -25,5 +25,8 @@
 }
 .link{
     text-decoration: none;
-    color: lightskyblue
+    color: lightskyblue;
+}
+.text-photo{
+    color: gray;
 }
