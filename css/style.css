@@ -53,6 +53,7 @@ table{
 }
 .tabella{
     width: 1000px;
+    text-align: left;
     
 }
 
@@ -62,19 +63,23 @@ table{
 
 thead{
     color: white;
-    background-color: blue;
+    background-color: #4ea0ff;
+}
+
+.colonna3{
+    width: 50%;
 }
 
 
+
+.riga{
+    background-color: #6fa7e8;
+    margin: 0;
+}
 .text2{
     width: 1000px;
     margin-top: 20px;
    
-}
-
-.riga{
-    background-color: #99cbff;
-    margin: 0;
 }
 footer{
     margin-top: 20px;
