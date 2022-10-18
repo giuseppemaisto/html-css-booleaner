@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 .pattern{
  background-image: url("../img/pattern.png");
  background-color: rgb(59, 150, 214);
@@ -49,6 +48,7 @@
 table{
     margin-top: 20px;
     width: 1000;
+    border-spacing: 0px;
     
 }
 .tabella{
@@ -74,6 +74,7 @@ thead{
 
 .riga{
     background-color: #99cbff;
+    margin: 0;
 }
 footer{
     margin-top: 20px;
